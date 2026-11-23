@@ -1,4 +1,4 @@
-# URL Shortener & Analytics
+# Web Analytics Dashboard
 
 A full-stack URL shortener and analytics application built with **ASP.NET Core, React, TypeScript, PostgreSQL, and Entity Framework Core**.
 
